@@ -30,17 +30,53 @@
 .scroller-2TZvBN{
   background-image:linear-gradient(to bottom right, #202225, #101215) !important;
 }
-.valueUnchecked-2lU_20{
-  background-image:linear-gradient(to bottom right, #202225, #101215) !important;
+.valueUnchecked-2lU_20, .ui-switch{
+  background-image:linear-gradient(to bottom right, #303235, #202225) !important;
 }
-.valueChecked-m-4IJZ{
-  background-image:linear-gradient(to bottom right, #404245, #101215) !important;
+.valueChecked-m-4IJZ, .ui-switch .checked{
+  background-image:linear-gradient(to bottom right, #404245, #303235) !important;
 }
 .da-acronym{
   background-image:linear-gradient(to bottom right, #303235, #101215) !important;
 }
+.quickswitcher-3JagVE{
+  background-image:linear-gradient(to bottom right, #202225, #101215) !important;
+}
+.input-2VB9rf{
+  background-image:linear-gradient(to bottom right, #404245, #202225) !important;
+  border:none !important;
+}
+.modal-yWgWj-{
+  background-image:linear-gradient(to bottom right, #202225, #101215) !important;
+}
+.embedInner-1-fpTo{
+  background-image:linear-gradient(to bottom right, #303235, #202225) !important;
+}
+.menu-Sp6bN1{
+  background-image:linear-gradient(to bottom right, #303235, #101215) !important;
+}
+.container-3cGP6G{
+  background-image:linear-gradient(to bottom right, #202225, #000205) !important;
+}
+.searchBar-2pWH0_{
+  background-image:linear-gradient(to bottom right, #404245, #202225) !important;
+  background-color:#00000000 !important;
+}
 .da-dividerContent{
   color: #505255 !important;
+}
+.card-3Qj_Yx[style^="border-color: rgb(114, 137, 218)"]{
+  border: none !important;
+  background-image: linear-gradient(to bottom right, #303235, #101215) !important;
+}
+
+.card-3Qj_Yx[style^="border-color: rgb(114, 137, 218)"] > label > div{
+  border: none !important;
+  background-image: linear-gradient(to bottom right, #505255, #404245);
+}
+
+.card-3Qj_Yx[style^="border-color: rgb(114, 137, 218)"] > label > div > svg > g > polyline{
+  stroke: lightgray!important;
 }
 .da-dividerContent::before{
   border-color: #505255 !important;
@@ -242,6 +278,10 @@ form {
 .content-1EtbQh{
   background-color:transparent !important;
   background-image:none !important;
+}
+.theme-dark .userSettingsVoice-iwdUCU .previewOverlay-2O7_KC {
+    background-image:linear-gradient(to bottom right, #303235, #202225) !important;
+    border:none !important;
 }
 #bd-pub-li{
   display:none;
