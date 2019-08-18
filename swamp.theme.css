@@ -1,0 +1,177 @@
+//META{"name":"Dark_Mode_Darker","description":"A Darker Dark Theme","author":"SHREK 5 COMING 2019#2019","version":"1.0"}*//
+
+
+.da-messages{
+  background-image:linear-gradient(to bottom right, #303235, #000205) !important;
+}
+
+.da-containerCozyBounded {
+  background-image:linear-gradient(to bottom right, #202225, #292B2D) !important;
+  border-radius:7px !important;
+  margin-top:2vh !important;
+  border: none !important;
+  border-top: none !important;
+  border-bottom : none !important;
+  outline: none !important;
+}
+
+.da-scroller{
+  background-image:linear-gradient(to bottom right, #202225, #101215) !important;
+}
+
+.da-acronym{
+  background-image:linear-gradient(to bottom right, #303235, #101215) !important;
+}
+
+.da-dividerContent{
+  color: #505255 !important;
+}
+.da-dividerContent::before{
+  border-color: #505255 !important;
+}
+.da-dividerContent::after{
+  border-color: #505255 !important;
+}
+
+.da-dividerEnabled{
+  display: none !important;
+}
+
+.da-expandedFolderBackground {
+  background-image: linear-gradient(to bottom right, #202225, #303235) !important;
+}
+
+.da-folderIconWrapper{
+  background-image: linear-gradient(to bottom right, #202225, #303235) !important;
+}
+
+.da-expandedFolderBackground {
+  background-color: transparent !important;
+}
+
+.da-directionColumn {
+  /*background-image:linear-gradient(to bottom right, #202225, #101215) !important;*/
+  background-color:transparent;
+}
+
+/*
+.da-gameNameLastPlayed{
+  background-image:linear-gradient(to bottom right, #202225, #101215) !important;
+}*/
+
+.game-1ipmAa:hover{
+  background-image:linear-gradient(to bottom right, #202225, #101215) !important;
+}
+.selected-3s45Ha{
+  background-image:linear-gradient(to bottom right, #404245, #303235) !important;
+}
+.contentRegion-3nDuYy{
+  background-image:linear-gradient(to bottom right, #202225, #101215) !important;
+}
+.da-notDetected{
+  background-color:transparent !important;
+}
+.da-channelNotice {
+  background-image:linear-gradient(to bottom right, #202225, #101215) !important;
+}
+.container-3baos1{
+  background-image:linear-gradient(to bottom right, #202225, #101215) !important;
+}
+.header-2BwW8b{
+  background-image:linear-gradient(to bottom right, #0F1112, #000205) !important;
+}
+.footer-1fjuF6{
+  background-image:linear-gradient(to bottom right, #303235, #202225) !important;
+}
+.da-quickMessage{
+  background-image:linear-gradient(to bottom right, #303235, #101215) !important;
+  border:0;
+}
+.arrowAlignmentTop-1yftWI{
+    background-image:linear-gradient(to bottom right, #202225, #101215) !important;
+}
+.header-QKLPzZ{
+  background-image:linear-gradient(to bottom right, #202225, #101215) !important;
+}
+.da-tabBarContainer{
+  background-image:linear-gradient(to bottom right, #232527, #101215) !important;
+  border-top:0;
+}
+.body-3iLsc4{
+  background-image:linear-gradient(to bottom right, #202225, #101215) !important;
+}
+form {
+  background-image:linear-gradient(to bottom right, #202225, #101215) !important;
+  margin:0 !important;
+  padding-left:2% !important;
+  padding-right:2% !important;
+
+}
+.container-1r6BKw {
+  background-image:linear-gradient(to bottom right, #202225, #101215) !important;
+}
+.da-modal{
+  background-color:transparent;
+}
+.footer-1fjuF6{
+  background-image:linear-gradient(to bottom right, #202225, #101215) !important;
+  border:0;
+}
+.da-inner{
+  background-image:linear-gradient(to bottom right, #202225, #101215) !important;
+}
+.da-noChannel{
+  background-image:linear-gradient(to bottom right, #202225, #101215) !important;
+}
+.da-typeWindows{
+  background-color: #050505 !important;
+  margin:0 !important;
+  border:0 !important;
+  padding-bottom:3px !important;
+  padding-top:4px !important;
+}
+
+.da-member:hover{
+  background-image:linear-gradient(to bottom right, #353739, #1B1D1F) !important;
+  border-bottom:0 !important;
+}
+.da-children::after{
+  display:none !important;
+}
+.da-hasDropdown{
+  background-image:linear-gradient(to bottom right, #202225, #101215) !important;
+}
+.da-search{
+  background-image:linear-gradient(to bottom right, #101215, #202225) !important;
+}
+.da-unread::before{
+  background-image:linear-gradient(to bottom right, #202225, #101215) !important;
+}
+.da-coloredText{
+  background:transparent;
+}
+
+.theme-dark .scrollerThemed-2oenus.themedWithTrack-q8E3vB .scroller-2FKFPG::-webkit-scrollbar-track-piece {
+    background-image:linear-gradient(to bottom right, #202225, #101215) !important;
+    border-image:linear-gradient(to bottom right, #202225, #101215) !important;
+    border: 3px solid #36393f;
+    border-radius: 7px;
+}
+.theme-dark .scrollerThemed-2oenus.themedWithTrack-q8E3vB .scroller-2FKFPG::-webkit-scrollbar-thumb {
+    background-image: linear-gradient(to bottom left, #202225, #101215) !important;
+    border-color: #101215 !important;
+}
+.da-typing{
+  background-color:transparent !important;
+}
+
+.da-contentColumnDefault:{
+  background-color:transparent !important;
+}
+.da-game{
+  background-color:transparent;
+}
+
+#bd-pub-li{
+  display:none;
+}
