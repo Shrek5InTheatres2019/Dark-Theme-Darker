@@ -5,7 +5,7 @@
   background-image:linear-gradient(to bottom right, #303235, #000205) !important;
 }
 
-.da-containerCozyBounded {
+.containerCozyBounded-1rKFAn {
   background-image:linear-gradient(to bottom right, #202225, #292B2D) !important;
   border-radius:7px !important;
   margin-top:2vh !important;
@@ -15,14 +15,30 @@
   outline: none !important;
 }
 
-.da-scroller{
+.sidebarRegionScroller-3MXcoP{
   background-image:linear-gradient(to bottom right, #202225, #101215) !important;
 }
-
+.scroller-2wx7Hm{
+  background-image:linear-gradient(to bottom right, #202225, #101215) !important;
+}
+.messages-3amgkR{
+  background-image: linear-gradient(to bottom right, #202225, #101215) !important;
+}
+.members-1998pB{
+  background-image:linear-gradient(to bottom right, #202225, #101215) !important;
+}
+.scroller-2TZvBN{
+  background-image:linear-gradient(to bottom right, #202225, #101215) !important;
+}
+.valueUnchecked-2lU_20{
+  background-image:linear-gradient(to bottom right, #202225, #101215) !important;
+}
+.valueChecked-m-4IJZ{
+  background-image:linear-gradient(to bottom right, #404245, #101215) !important;
+}
 .da-acronym{
   background-image:linear-gradient(to bottom right, #303235, #101215) !important;
 }
-
 .da-dividerContent{
   color: #505255 !important;
 }
@@ -32,7 +48,25 @@
 .da-dividerContent::after{
   border-color: #505255 !important;
 }
-
+.emojiPicker-3m1S-j{
+  background-image:linear-gradient(to bottom right, #202225, #101215) !important;
+  border:0;
+}
+.category-2U57w6{
+  background:inherit !important;
+}
+.stickyHeader-1SS0JU{
+  display:none !important;
+}
+/*
+.scrollerThemed-2oenus.themeDark-2cjlUp .scroller-2FKFPG::-webkit-scrollbar-thumb, .theme-dark .scrollerWrap-2lJEkd .scroller-2FKFPG::-webkit-scrollbar-thumb, .theme-light .scrollerThemed-2oenus.themeDark-2cjlUp .scroller-2FKFPG::-webkit-scrollbar-thumb {
+  background-image:linear-gradient(to bottom right, #202225, #101215) !important;
+  border:0;
+}
+.emojiPicker-3m1S-j .scroller-3vODG7::-webkit-scrollbar-track-piece {
+  background-image:linear-gradient(to bottom right, #202225, #101215) !important;
+  border:2px;
+}*/
 .da-dividerEnabled{
   display: none !important;
 }
@@ -117,9 +151,6 @@ form {
   background-image:linear-gradient(to bottom right, #202225, #101215) !important;
   border:0;
 }
-.da-inner{
-  background-image:linear-gradient(to bottom right, #202225, #101215) !important;
-}
 .da-noChannel{
   background-image:linear-gradient(to bottom right, #202225, #101215) !important;
 }
@@ -161,6 +192,37 @@ form {
     background-image: linear-gradient(to bottom left, #202225, #101215) !important;
     border-color: #101215 !important;
 }
+.scrollerThemed-2oenus.themeLight-1_DWyY .scroller-2FKFPG::-webkit-scrollbar-thumb, .theme-dark .scrollerThemed-2oenus.themeLight-1_DWyY .scroller-2FKFPG::-webkit-scrollbar-thumb, .theme-light .scrollerWrap-2lJEkd .scroller-2FKFPG::-webkit-scrollbar-thumb {
+  background-image:linear-gradient(to bottom right, #202225, #101215) !important;
+}
+.messageGroupWrapper-o-Zw7G{
+  background-color:transparent!important;
+  border:0 !important;
+  border-radius:0 !important;
+}
+.actionButtons-1sUUug{
+  box-shadow:none !important;
+  background-color:transparent !important;
+}
+.header-2tA9Os{
+  background-color:transparent;
+}
+.modal-1sor29{
+  background-image:linear-gradient(to bottom right, #202225, #101215);
+}
+.header-ykumBX{
+  background-image:linear-gradient(to bottom right, #303235, #202225);
+}
+.scrollerWrap-2lJEkd{
+  background-image:linear-gradient(to bottom right, #202225, #101215);
+}
+.jumpButton-3DTcS_{
+  margin:0 !important;
+  border-radius:7px;
+}
+.popout-103y-5{
+  background-image:linear-gradient(to bottom right, #202225, #101215);
+}
 .da-typing{
   background-color:transparent !important;
 }
@@ -171,7 +233,16 @@ form {
 .da-game{
   background-color:transparent;
 }
-
+.footer-3rDWdC{
+  background-color:transparent !important;
+}
+.content-KhOrDM{
+  background-color:transparent !important;
+}
+.content-1EtbQh{
+  background-color:transparent !important;
+  background-image:none !important;
+}
 #bd-pub-li{
   display:none;
 }
