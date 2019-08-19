@@ -106,7 +106,9 @@
 .da-dividerEnabled{
   display: none !important;
 }
-
+.inner-zqa7da{
+  background-image:linear-gradient(to bottom right, #303235, #000205) !important;
+}
 .da-expandedFolderBackground {
   background-image: linear-gradient(to bottom right, #202225, #303235) !important;
 }
@@ -114,9 +116,14 @@
 .da-folderIconWrapper{
   background-image: linear-gradient(to bottom right, #202225, #303235) !important;
 }
-
+.searchBar--fTZYa{
+  background-image:linear-gradient(to bottom right, #202225, #101215) !important;
+}
 .da-expandedFolderBackground {
   background-color: transparent !important;
+}
+.autocomplete-1vrmpx{
+  background-image:linear-gradient(to bottom right, #303235, #000205) !important;
 }
 
 .da-directionColumn {
