@@ -78,6 +78,19 @@
 .card-3Qj_Yx[style^="border-color: rgb(114, 137, 218)"] > label > div > svg > g > polyline{
   stroke: lightgray!important;
 }
+.uploadModal-2ifh8j{
+  background-image:linear-gradient(to bottom right, #505255, #303235) !important;
+}
+.footer-3mqk7D{
+  background-image:linear-gradient(to bottom right, #202225, #101215) !important;
+}
+.colorBrand-3pXr91{
+  background-image:linear-gradient(to bottom right, #404245, #202225) !important;
+  background-color:#00000000 !important;
+}
+.uploadModal-2ifh8j .inner-3nWsbo{
+  border-color:lightgray;
+}
 .da-dividerContent::before{
   border-color: #505255 !important;
 }
