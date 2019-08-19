@@ -84,7 +84,7 @@
 .footer-3mqk7D{
   background-image:linear-gradient(to bottom right, #202225, #101215) !important;
 }
-.colorBrand-3pXr91{
+.lookInverted-2D7oAl{
   background-image:linear-gradient(to bottom right, #404245, #202225) !important;
   background-color:#00000000 !important;
 }
@@ -106,6 +106,50 @@
 }
 .stickyHeader-1SS0JU{
   display:none !important;
+}
+.theme-dark .paginator-166-09 {
+    /*background-image:linear-gradient(to bottom right, #404245, #202225) !important;*/
+    background-color: #40404020 !important;
+}
+.payment-xT17Mq {
+    background-color: #00000000 !important;
+}
+.paymentPane-3bwJ6A {
+    background-color: #10101030 !important;
+}
+.codeRedemptionRedirect-1wVR4b {
+    background-image: linear-gradient(to bottom right, #303235, #101215) !important;
+    background-color: #00000000;
+}
+.tier1Banner-1B_WXY {
+    background-image: linear-gradient(to bottom right, #303235, #202225) !important;
+}
+.info-3UT5_W {
+    background-color: #00000000 !important;
+    background-image: linear-gradient(to bottom right, #404245, #202225) !important;
+}
+.guildGraphicContainer-39I_Pl {
+    background-image: linear-gradient(to bottom right, #303235, #101215) !important;
+}
+.container-2Zlzt0 {
+    background-color: #00000000 !important;
+    background-image:linear-gradient(to bottom right, #202225, #101215) !important;
+}
+.option-n0icdO {
+  background-image:linear-gradient(to bottom right, #303235, #202225) !important;
+  background-color:#00000000;
+}
+.selected-mKYnfr.option-n0icdO{
+  background-image:linear-gradient(to bottom right, #606265, #505255) !important;
+  background-color:#00000000;
+}
+.option-n0icdO:hover {
+  background-image:linear-gradient(to bottom right, #505255, #404245) !important;
+  background-color:#00000000;
+}
+.root-1gCeng {
+    background-color: #00000000 !important;
+    background-image:linear-gradient(to bottom right, #202225, #101215) !important;
 }
 /*
 .scrollerThemed-2oenus.themeDark-2cjlUp .scroller-2FKFPG::-webkit-scrollbar-thumb, .theme-dark .scrollerWrap-2lJEkd .scroller-2FKFPG::-webkit-scrollbar-thumb, .theme-light .scrollerThemed-2oenus.themeDark-2cjlUp .scroller-2FKFPG::-webkit-scrollbar-thumb {
@@ -206,6 +250,15 @@ form {
 .footer-1fjuF6{
   background-image:linear-gradient(to bottom right, #202225, #101215) !important;
   border:0;
+}
+.message-2qRu38 {
+    background-color: #00000000 !important;
+    border:none !important;
+}
+.hasMoreButton-1MELpI {
+    background-color: transparent !important;
+    background-image:linear-gradient(to bottom right, #202225, #101215) !important;
+    border:none !important;
 }
 .da-noChannel{
   background-image:linear-gradient(to bottom right, #202225, #101215) !important;
