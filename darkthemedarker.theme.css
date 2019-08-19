@@ -356,3 +356,23 @@ form {
     background-image:linear-gradient(to bottom right, #303235, #202225) !important;
     border:none !important;
 }
+.channelSeparator-1X1FuH .channelName-1QajIf {
+    background-color: transparent !important;
+}
+.searchResult-3pzFAB::before{
+  display:none;
+}
+.searchResult-3pzFAB::after{
+  display:none;
+}
+.searchResult-3pzFAB .hit-NLlWXA {
+    background-color: transparent !important;
+    -webkit-box-shadow:none !important;
+    box-shadow:none !important;
+    border:none !important;
+    border-radius:10px;
+}
+.searchHeader-1l-wpR {
+    background-color: #00000000 !important;
+    background-image:linear-gradient(to bottom right, #303235, #202225) !important;
+}
