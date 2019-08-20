@@ -65,19 +65,6 @@
 .da-dividerContent{
   color: #505255 !important;
 }
-.card-3Qj_Yx[style^="border-color: rgb(114, 137, 218)"]{
-  border: none !important;
-  background-image: linear-gradient(to bottom right, #303235, #101215) !important;
-}
-
-.card-3Qj_Yx[style^="border-color: rgb(114, 137, 218)"] > label > div{
-  border: none !important;
-  background-image: linear-gradient(to bottom right, #505255, #404245);
-}
-
-.card-3Qj_Yx[style^="border-color: rgb(114, 137, 218)"] > label > div > svg > g > polyline{
-  stroke: lightgray!important;
-}
 .uploadModal-2ifh8j{
   background-image:linear-gradient(to bottom right, #505255, #303235) !important;
 }
@@ -379,4 +366,22 @@ form {
 .searchHeader-1l-wpR {
     background-color: #00000000 !important;
     background-image:linear-gradient(to bottom right, #303235, #202225) !important;
+}
+.cardPrimary-1Hv-to {
+    background-image: linear-gradient(to bottom right, #404245, #202225) !important;
+}
+.wrapper-3jrx9n{
+    border-color: #505255 !important;
+}
+.closeButton-1tv5uR:hover {
+    background-color: transparent !important;
+    background-image: linear-gradient(to bottom right, #606265, #303235) !important;
+}
+.cardPrimaryEditable-3KtE4g {
+    background-color:transparent !important;
+    background-image:linear-gradient(to bottom right, #404245, #101215) !important;
+    border-color: #202225;
+}
+.avatarUploaderInner-3UNxY3 {
+  background-color:transparent;
 }
