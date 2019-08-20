@@ -385,3 +385,10 @@ form {
 .avatarUploaderInner-3UNxY3 {
   background-color:transparent;
 }
+.container-3ayLPN {
+    background-color: transparent !important;
+    background-image: linear-gradient(to bottom right, #303235, #101215);
+}
+.option-96V44q:after {
+  display:none;
+}
